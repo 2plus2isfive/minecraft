@@ -1,0 +1,166 @@
+@import url("https://cdn.22is5.com/css/reset.css");
+@import url("https://cdn.22is5.com/fonts/minecraft.css");
+
+:root {
+  --sky: #8ebef500;
+  --broken: 45%;
+  --headerFont: "Minecraft Ten";
+  --subheaderFont: "Minecraft Bold";
+}
+
+body {
+  image-rendering: pixelated;
+  font-family: "Minecraft Regular";
+  background-color: #000;
+  color: #fff;
+}
+
+.bg {
+  width: 100%;
+  position: absolute;
+  background-color: var(--sky);
+  display: flex;
+  flex-direction: column;
+  user-select: none;
+  z-index: -1;
+  top: 0;
+}
+
+.layer {
+  width: 100%;
+  background-color: var(--sky);
+  display: flex;
+  justify-content: space-between;
+}
+
+.layer>* {
+  width: 6.25%;
+  aspect-ratio: 1/1;
+  background-size: cover;
+  background-position: center;
+}
+
+#mineable {
+  cursor: url("/img/textures/iron-pickaxe.png"), auto;
+}
+
+.sky {
+  background-color: #ff00ff00;
+}
+
+.grass-block {
+  background-image: url("/img/textures/grass-block.png");
+}
+
+.dirt {
+  background-image: url("/img/textures/dirt.png");
+}
+
+.stone {
+  background-image: url("/img/textures/stone.png");
+}
+
+.granite {
+  background-image: url("/img/textures/granite.png");
+}
+
+.diorite {
+  background-image: url("/img/textures/diorite.png");
+}
+
+.deepslate {
+  background-image: url("/img/textures/deepslate.png");
+}
+
+.coal-stone {
+  background-image: url("/img/textures/coal-stone.png");
+}
+
+.coal-deepslate {
+  background-image: url("/img/textures/coal-deepslate.png");
+}
+
+.iron-stone {
+  background-image: url("/img/textures/iron-stone.png");
+}
+
+.emerald-stone {
+  background-image: url("/img/textures/emerald-stone.png");
+}
+
+.gold-deepslate {
+  background-image: url("/img/textures/gold-deepslate.png");
+}
+
+.gold-stone {
+  background-image: url("/img/textures/gold-stone.png");
+}
+
+.diamond-deepslate {
+  background-image: url("/img/textures/diamond-deepslate.png");
+}
+
+.bedrock {
+  background-image: url("/img/textures/bedrock.png");
+}
+
+.netherrack {
+  background-image: url("/img/textures/netherrack.png");
+}
+
+.unknown {
+  background-image: url("/img/textures/unknown.png");
+}
+
+.oak-log {
+  background-image: url("/img/textures/oak-log.png");
+}
+
+.azalea-leaves {
+  background-image: url("/img/textures/azalea-leaves.png");
+}
+
+.azalea-leaves-flowered {
+  background-image: url("/img/textures/azalea-leaves-flowered.png");
+}
+
+.dirt-rooted {
+  background-image: url("/img/textures/dirt-rooted.png");
+}
+
+.destroy {
+  width: 100%;
+  height: 100%;
+  filter: brightness(50%);
+  z-index: 100;
+  opacity: 0;
+}
+
+audio {
+  display: none;
+}
+
+.over {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: underline;
+  font-family: "Minecraft Italic";
+}
+
+code {
+  font-family: "Minecraft Mono";
+}
+
+.skyGradient {
+  background: linear-gradient(to top, #b4cde9, #74a1d4);
+  /* background-color: var(--sky); */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}

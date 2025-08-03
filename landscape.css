@@ -1,0 +1,21 @@
+@import url("https://cdn.22is5.com/css/reset.css");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000;
+}
+
+.landscape {
+  width: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.layer {
+  display: flex;
+}

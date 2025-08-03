@@ -1,0 +1,8 @@
+gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg
+dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd
+dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd
+dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd,dd
+ss,ss,ss,dd,dd,dd,ss,sC,sC,sC,ss,ss,ss,ss,ss,ss
+ss,ss,ss,ss,ss,ss,sC,sC,sC,ss,ss,ss,ss,ss,ss,ss
+ss,ss,ss,ss,ss,ss,ss,ss,ss,sC,ss,ss,ss,ss,ss,ss
+ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss,ss

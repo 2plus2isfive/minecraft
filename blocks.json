@@ -1,0 +1,24 @@
+{
+    "blocks": [
+        {
+            "code": "gg",
+            "name": "Grass Block",
+            "class": "grassBlock"
+        },
+        {
+            "code": "dd",
+            "name": "Dirt Block",
+            "class": "dirt"
+        },
+        {
+            "code": "ss",
+            "name": "Stone",
+            "class": "stone"
+        },
+        {
+            "code": "sC",
+            "name": "Coal Ore",
+            "class": "stoneCoal"
+        }
+    ]
+}
