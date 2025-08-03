@@ -19,6 +19,11 @@
             "code": "sC",
             "name": "Coal Ore",
             "class": "stoneCoal"
+        },
+        {
+            "code": "ds",
+            "name": "Deepslate",
+            "class": "deepslate"
         }
     ]
 }
