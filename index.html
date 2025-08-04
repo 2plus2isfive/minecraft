@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
     <title>Minecraft</title>
+    <link rel="shortcut icon" href="img/textures/grass-block.png" type="image/x-icon" />
     <link rel="stylesheet" href="blocks.css" />
     <link rel="stylesheet" href="landscape.css" />
     <link rel="stylesheet" href="depth.css" />
@@ -9,9 +10,17 @@
   </head>
 
   <body>
-    <div class="landscape" id="landscape"></div>
-    <div class="transparent" id="transparent"></div>
-    <div class="depthMap" id="depthMap"></div>
+    <div class="sceneWrapper">
+      <div class="landscape" id="landscape"></div>
+    </div>
+
+    <div class="sceneWrapper">
+      <div class="transparent" id="transparent"></div>
+    </div>
+
+    <div class="sceneWrapper">
+      <div class="depthMap" id="depthMap"></div>
+    </div>
 
     <script src="landscape.js"></script>
     <script src="transparent.js"></script>

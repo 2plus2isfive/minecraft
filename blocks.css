@@ -3,16 +3,21 @@
   --sky: #8ebef5;
   --bgBrightness: 50%;
 }
-
+body {
+  position: relative;
+  width: 100%;
+}
 .block {
   background-position: center;
   background-size: cover;
   image-rendering: pixelated;
-  width: var(--blockSize);
-  height: var(--blockSize);
+  width: 6.25%;
+  aspect-ratio: 1/1;
   /* background-color: #f0f; */
 }
-
+/* .block:hover {
+  background-color: #000000ee;
+} */
 .sky {
   background-color: var(--sky);
 }
@@ -23,6 +28,10 @@
 
 .dirt {
   background-image: url("img/textures/dirt.png");
+}
+
+.rootedDirt {
+  background-image: url("img/textures/dirt-rooted.png");
 }
 
 /* STONE START */
@@ -37,6 +46,10 @@
 
 .stoneIron {
   background-image: url("img/textures/iron-stone.png");
+}
+
+.stoneGold {
+  background-image: url("img/textures/gold-stone.png");
 }
 
 /* STONE END */

@@ -1,9 +1,24 @@
 {
   "blocks": [
     {
+      "code": "..",
+      "name": "Empty",
+      "class": "fullbright"
+    },
+    {
       "code": "gl",
       "name": "Glass Block",
       "class": "glassBlock"
+    },
+    {
+      "code": "az",
+      "name": "Azalea Leaves",
+      "class": "azaleaLeaves"
+    },
+    {
+      "code": "fz",
+      "name": "Flowered Azalea Leaves",
+      "class": "floweredAzaleaLeaves"
     }
   ]
 }

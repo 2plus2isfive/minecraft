@@ -1,3 +1,9 @@
 .glassBlock {
   background-image: url("img/textures/black-glass.png");
 }
+.azaleaLeaves {
+  background-image: url("img/textures/azalea-leaves.png");
+}
+.floweredAzaleaLeaves {
+  background-image: url("img/textures/azalea-leaves-flowered.png");
+}

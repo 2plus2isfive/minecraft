@@ -16,6 +16,11 @@
       "class": "dirt"
     },
     {
+      "code": "rd",
+      "name": "Rooted Dirt",
+      "class": "rootedDirt"
+    },
+    {
       "code": "ss",
       "name": "Stone",
       "class": "stone"
@@ -29,6 +34,11 @@
       "code": "sI",
       "name": "Iron Ore",
       "class": "stoneIron"
+    },
+    {
+      "code": "sG",
+      "name": "Gold Ore",
+      "class": "stoneGold"
     },
     {
       "code": "ds",
