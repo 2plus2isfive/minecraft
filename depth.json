@@ -1,0 +1,89 @@
+{
+  "blocks": [
+    {
+      "code": "..",
+      "name": "Fullbright",
+      "class": "fullbright"
+    },
+    {
+      "code": "00",
+      "name": "Light Level 0",
+      "class": "ll-0"
+    },
+    {
+      "code": "01",
+      "name": "Light Level 1",
+      "class": "ll-1"
+    },
+    {
+      "code": "02",
+      "name": "Light Level 2",
+      "class": "ll-2"
+    },
+    {
+      "code": "03",
+      "name": "Light Level 0",
+      "class": "ll-3"
+    },
+    {
+      "code": "04",
+      "name": "Light Level 0",
+      "class": "ll-4"
+    },
+    {
+      "code": "05",
+      "name": "Light Level 0",
+      "class": "ll-5"
+    },
+    {
+      "code": "06",
+      "name": "Light Level 0",
+      "class": "ll-6"
+    },
+    {
+      "code": "07",
+      "name": "Light Level 0",
+      "class": "ll-7"
+    },
+    {
+      "code": "08",
+      "name": "Light Level 0",
+      "class": "ll-8"
+    },
+    {
+      "code": "09",
+      "name": "Light Level 0",
+      "class": "ll-9"
+    },
+    {
+      "code": "10",
+      "name": "Light Level 0",
+      "class": "ll-10"
+    },
+    {
+      "code": "11",
+      "name": "Light Level 0",
+      "class": "ll-11"
+    },
+    {
+      "code": "12",
+      "name": "Light Level 0",
+      "class": "ll-12"
+    },
+    {
+      "code": "13",
+      "name": "Light Level 0",
+      "class": "ll-13"
+    },
+    {
+      "code": "14",
+      "name": "Light Level 0",
+      "class": "ll-14"
+    },
+    {
+      "code": "15",
+      "name": "Light Level 15",
+      "class": "ll-15"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "blocks": [
+    {
+      "code": "gl",
+      "name": "Glass Block",
+      "class": "glassBlock"
+    }
+  ]
+}

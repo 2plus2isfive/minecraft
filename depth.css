@@ -1,0 +1,71 @@
+:root {
+  --default: 0.0625;
+}
+.fullbright {
+  background-color: #00000000;
+  opacity: 0;
+}
+.ll-0 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 16);
+}
+.ll-1 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 15);
+}
+.ll-2 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 14);
+}
+.ll-3 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 13);
+}
+.ll-4 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 12);
+}
+.ll-5 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 11);
+}
+.ll-6 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 10);
+}
+.ll-7 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 9);
+}
+.ll-8 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 8);
+}
+.ll-9 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 7);
+}
+.ll-10 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 6);
+}
+.ll-11 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 5);
+}
+.ll-12 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 4);
+}
+.ll-13 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 3);
+}
+.ll-14 {
+  background-color: #000000;
+  opacity: calc(var(--default) * 2);
+}
+.ll-15 {
+  background-color: #000000;
+  opacity: var(--default);
+}

@@ -10,7 +10,7 @@
   image-rendering: pixelated;
   width: var(--blockSize);
   height: var(--blockSize);
-  background-color: #f0f;
+  /* background-color: #f0f; */
 }
 
 .sky {
@@ -25,6 +25,8 @@
   background-image: url("img/textures/dirt.png");
 }
 
+/* STONE START */
+
 .stone {
   background-image: url("img/textures/stone.png");
 }
@@ -33,6 +35,36 @@
   background-image: url("img/textures/coal-stone.png");
 }
 
+.stoneIron {
+  background-image: url("img/textures/iron-stone.png");
+}
+
+/* STONE END */
+
+/* DEEPSLATE START */
+
 .deepslate {
   background-image: url("img/textures/deepslate.png");
+}
+
+.deepslateDiamond {
+  background-image: url("img/textures/diamond-deepslate.png");
+}
+
+/* DEEPSLATE END */
+
+/* WOOD START */
+
+.oakLog {
+  background-image: url("img/textures/oak-log.png");
+}
+
+/* WOOD END */
+
+.bedrock {
+  background-image: url("img/textures/bedrock.png");
+}
+
+.netherrack {
+  background-image: url("img/textures/netherrack.png");
 }

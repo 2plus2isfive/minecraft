@@ -1,29 +1,59 @@
 {
-    "blocks": [
-        {
-            "code": "gg",
-            "name": "Grass Block",
-            "class": "grassBlock"
-        },
-        {
-            "code": "dd",
-            "name": "Dirt Block",
-            "class": "dirt"
-        },
-        {
-            "code": "ss",
-            "name": "Stone",
-            "class": "stone"
-        },
-        {
-            "code": "sC",
-            "name": "Coal Ore",
-            "class": "stoneCoal"
-        },
-        {
-            "code": "ds",
-            "name": "Deepslate",
-            "class": "deepslate"
-        }
-    ]
+  "blocks": [
+    {
+      "code": "..",
+      "name": "Sky",
+      "class": "sky"
+    },
+    {
+      "code": "gg",
+      "name": "Grass Block",
+      "class": "grassBlock"
+    },
+    {
+      "code": "dd",
+      "name": "Dirt Block",
+      "class": "dirt"
+    },
+    {
+      "code": "ss",
+      "name": "Stone",
+      "class": "stone"
+    },
+    {
+      "code": "sC",
+      "name": "Coal Ore",
+      "class": "stoneCoal"
+    },
+    {
+      "code": "sI",
+      "name": "Iron Ore",
+      "class": "stoneIron"
+    },
+    {
+      "code": "ds",
+      "name": "Deepslate",
+      "class": "deepslate"
+    },
+    {
+      "code": "dD",
+      "name": "Deepslate Diamond Ore",
+      "class": "deepslateDiamond"
+    },
+    {
+      "code": "br",
+      "name": "Bedrock",
+      "class": "bedrock"
+    },
+    {
+      "code": "nr",
+      "name": "Netherrack",
+      "class": "netherrack"
+    },
+    {
+      "code": "OL",
+      "name": "Oak Log",
+      "class": "oakLog"
+    }
+  ]
 }
